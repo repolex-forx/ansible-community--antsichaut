@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "antsichaut",
+  "versions": [
+    {
+      "commit": "5930d6c87cb67aa980f59df73ef1b242ba36f559",
+      "tag": "",
+      "parsed_at": "2026-11-06T15:44:19.271072+00:00"
+    }
+  ]
+}
