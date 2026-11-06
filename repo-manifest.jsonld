@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/antsichaut/commit/5930d6c87cb67aa980f59df73ef1b242ba36f559",
       "git:hexsha": "5930d6c87cb67aa980f59df73ef1b242ba36f559",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-community/antsichaut/commit/7e84c08c2395cfcca5bba4163c846f0130f7d393",
